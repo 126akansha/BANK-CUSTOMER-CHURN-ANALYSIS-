@@ -54,13 +54,17 @@ This project analyzes customer churn in the banking sector to understand custome
 - Credit Card Analysis
 - Active vs Inactive Customers
 - Balance Analysis
-- 
+  
 
 
 
 
 
 ## 📷 Dashboard Preview
+
+
+
+
 
 
 
